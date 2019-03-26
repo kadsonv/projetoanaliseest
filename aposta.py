@@ -3,6 +3,7 @@ import random
 j = int(input('QUANTOS JOGOS VOCÊ VAI APOSTAR: '))
 cont = 1
 tot1 = tot2 = 0
+times=(vasco, flamengo, ponte)
 
 while cont <= j:
     print('{}º JOGO'.format(cont))
